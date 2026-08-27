@@ -1,5 +1,5 @@
-Employee ID:
-EMployee Name:
-Department:
-Designation:
-Salary:
+Employee ID: 12407122
+EMployee Name: Thejesh
+Department: Computer Science
+Designation: Student
+Salary: 0
